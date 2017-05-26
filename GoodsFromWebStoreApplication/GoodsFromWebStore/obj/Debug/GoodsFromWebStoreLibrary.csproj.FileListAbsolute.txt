@@ -1,0 +1,16 @@
+c:\users\ilya\documents\visual studio 2015\Projects\GoodsFromWebStoreApplication\GoodsFromWebStore\bin\Debug\GoodsFromWebStore.dll
+c:\users\ilya\documents\visual studio 2015\Projects\GoodsFromWebStoreApplication\GoodsFromWebStore\bin\Debug\GoodsFromWebStore.pdb
+c:\users\ilya\documents\visual studio 2015\Projects\GoodsFromWebStoreApplication\GoodsFromWebStore\obj\Debug\GoodsFromWebStoreLibrary.csprojResolveAssemblyReference.cache
+c:\users\ilya\documents\visual studio 2015\Projects\GoodsFromWebStoreApplication\GoodsFromWebStore\obj\Debug\GoodsFromWebStore.dll
+c:\users\ilya\documents\visual studio 2015\Projects\GoodsFromWebStoreApplication\GoodsFromWebStore\obj\Debug\GoodsFromWebStore.pdb
+c:\users\ilya\documents\visual studio 2015\Projects\GoodsFromWebStoreApplication\GoodsFromWebStore\bin\Debug\HtmlAgilityPack.dll
+c:\users\ilya\documents\visual studio 2015\Projects\GoodsFromWebStoreApplication\GoodsFromWebStore\bin\Debug\HtmlAgilityPack.pdb
+c:\users\ilya\documents\visual studio 2015\Projects\GoodsFromWebStoreApplication\GoodsFromWebStore\bin\Debug\HtmlAgilityPack.xml
+D:\TestProject\GoodsFromWebStoreApplication\GoodsFromWebStore\bin\Debug\GoodsFromWebStore.dll
+D:\TestProject\GoodsFromWebStoreApplication\GoodsFromWebStore\bin\Debug\GoodsFromWebStore.pdb
+D:\TestProject\GoodsFromWebStoreApplication\GoodsFromWebStore\bin\Debug\HtmlAgilityPack.dll
+D:\TestProject\GoodsFromWebStoreApplication\GoodsFromWebStore\bin\Debug\HtmlAgilityPack.pdb
+D:\TestProject\GoodsFromWebStoreApplication\GoodsFromWebStore\bin\Debug\HtmlAgilityPack.xml
+D:\TestProject\GoodsFromWebStoreApplication\GoodsFromWebStore\obj\Debug\GoodsFromWebStoreLibrary.csprojResolveAssemblyReference.cache
+D:\TestProject\GoodsFromWebStoreApplication\GoodsFromWebStore\obj\Debug\GoodsFromWebStore.dll
+D:\TestProject\GoodsFromWebStoreApplication\GoodsFromWebStore\obj\Debug\GoodsFromWebStore.pdb
